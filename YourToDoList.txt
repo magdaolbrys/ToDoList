@@ -1,0 +1,11 @@
+YOUR TASKS: 
+--------------------
+//done - TAKE THE DOG FOR A WALK  categories: household duties, pets,  date added: 2024-03-20,  deadline: 2023-10-14 
+FEED A CAT  categories: household duties, pets,  date added: 2024-03-20,  deadline: 2023-10-12 
+MATH HOMEWORK  category: school,  date added: 2024-03-20,  deadline: 2023-10-14 
+CLEAN THE BATHROOM  category: household duties,  date added: 2024-03-20,  deadline: 2023-10-15 
+//done - GROCERY SHOPPING  category: household duties,  date added: 2024-03-20,  deadline: 2023-10-14 
+FIX THE BIKE  category: fixes,  date added: 2024-03-20,  deadline: 2023-10-25 
+EEEE  category: rrrr,  date added: 2024-03-20,  deadline: 2023-12-03 
+--------------------
+Tasks completed: 2 Tasks not completed: 5
